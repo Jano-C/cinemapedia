@@ -1,5 +1,6 @@
 # Cinemapedia
 
+demo de la app https://www.youtube.com/shorts/xqO6Zs2p_io
 Cinemapedia es una app de películas desarrollada en Flutter que consume **The Movie Database (TMDB)**.  
 Permite navegar entre películas populares, ver detalles de cada una, buscar películas y marcar películas como **favoritas**, guardando esta información de manera local.
 
@@ -49,8 +50,4 @@ La app combina consumo de APIs, manejo de datos locales simples y patrones de ar
 
 ```bash
 flutter pub run build_runner build
-
-
-
-
 
